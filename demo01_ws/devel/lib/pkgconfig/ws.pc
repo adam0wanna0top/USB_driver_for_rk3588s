@@ -1,0 +1,8 @@
+prefix=/home/firefly/demo01_ws/devel
+
+Name: ws
+Description: Description of ws
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
